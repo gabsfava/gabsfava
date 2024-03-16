@@ -6,9 +6,9 @@ I'm a developer passionate about technology, currently focused on the world of d
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 💼 Data Platform Engineer at [Ab-Inbev](https://www.ab-inbev.com/) 🍻
+- 💻 Data Platform Engineer at [Ab-Inbev](https://www.ab-inbev.com/) 🍻
 
-- 📖 I graduated in Computer Engineering from the [Federal University of Espirito Santo](https://www.ufes.br/)
+- 📖 Graduated in Computer Engineering from the [Federal University of Espirito Santo](https://www.ufes.br/)
 
 - 🖤 I love designing data solutions and learning about new technologies 
   
